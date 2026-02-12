@@ -2,9 +2,7 @@
 
 Steps to Download and Install latest Microsoft Office 2022 in Windows.
 
-1. Download the zip file from the link https://github.com/singhalmridul/Microsoft-Office-2022
-
-![image](https://user-images.githubusercontent.com/79533228/169352582-4c57f204-0e2f-47a1-b497-02b8dfad844c.png)
+1. Download the zip file 
 
 2. Now open the File Explorer > Downloads
 
@@ -52,6 +50,5 @@ Steps to Download and Install latest Microsoft Office 2022 in Windows.
 
 10. Open Word or any other office product and check whether office is activated or not.
 
-![image](https://user-images.githubusercontent.com/79533228/169354799-cdd18017-72a4-42af-85f7-4a3c3c4cfd03.png)
 
 **Congratulations !! you have succesfully installed and cracked Microsoft Office 2022 on your Windows Operating System.
